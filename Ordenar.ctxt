@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Ordenar
+comment1.params=
+comment1.target=Ordenar()
+comment2.params=
+comment2.target=int[]\ ordenar_burbuja_menor_mayor()
+comment3.params=
+comment3.target=int[]\ ordenar_insercion_menor_mayor()
+comment4.params=
+comment4.target=int[]\ ordenar_seleccion_menor_mayor()
+numComments=5
