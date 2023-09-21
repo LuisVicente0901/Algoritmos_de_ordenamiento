@@ -1,1 +1,5 @@
-# Algoritmos_de_ordenamiento
+# Algoritmos de ordenamiento
+
+* Burbuja
+* Inserción
+* Selección
